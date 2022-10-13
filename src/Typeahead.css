@@ -1,0 +1,22 @@
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputel{
+    position: absolute;
+    top: 10px;
+    min-width: 300px;
+}
+.list{
+    position: relative;
+    top: 9px;
+    padding: 13px 5px;
+    background: white;
+    color: black;
+    list-style: none;
+    min-width: 297px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
